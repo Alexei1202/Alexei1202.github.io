@@ -84,14 +84,11 @@ img{
    font-size: 20px;
    margin: 18px 14px 0px 14px;
 }
-
 .title{
-   width: 100%;
-   height: 100%;
-   background: url(../img/слой.jpg) center;
+   background: url(../img/слой3.jpg) center;
    padding-top: 50px;
    margin: 70px 00px 00px 00px;
-   height: 800px
+   height: 400px
 }
 .title h2{
    text-align: center;
@@ -102,15 +99,111 @@ img{
 .icon1{
    float: left;
    color: rgb(240, 121, 41);
-   padding-left: 30%
-}
+   margin: 65px;
+   width: 265px;
+   text-align: center;
+   font-weight: bold;
+   }
 .icon2{
-   float: left;color: rgb(240, 121, 41);padding-left: 30%
+   float: left;
+   color: rgb(240, 121, 41);
+   margin: 65px;
+   width: 265px;
+   text-align: center;
+   font-weight: bold;
 }
 .icon3{
- float: left;  color: rgb(240, 121, 41);padding-left: 30%
+  float: left;  
+  color: rgb(240, 121, 41);
+  margin: 65px;
+  width: 265px; 
+  text-align: center;
+  font-weight: bold;
 }
 .icon4{
-   float: left;color: rgb(240, 121, 41);padding-left: 30%
+   float: left;
+   color: rgb(240, 121, 41);
+   margin: 65px;
+   width: 265px;
+   text-align: center;
+   font-weight: bold;
 }
-
+p.kind{
+   padding-top: 25px;
+}
+p.com{
+   color: rgb(129, 126, 125);
+   text-align: center;
+   font-weight: normal;
+   padding-top: 15px;
+}
+.keys_img{
+      width: 100%;
+      height: 100%;
+      background: url(../img/321.jpg) center/cover no-repeat;
+}
+.keys h2{
+   text-align: center;
+   font-weight: bold;
+   padding-top: 40px;
+   font-size: 25px;
+}
+.keys p{
+   text-align: center;
+   padding-top: 40px;
+   font-size: 15px;
+}
+.client{
+  line-height: 1.5;
+  float: left;  
+  color: rgba(134, 131, 129, 0.849);
+  margin: 05px 150px 010px 110px;
+  width: 125px; 
+  text-align: left;
+  font-weight: bold;
+  }
+.pro{
+  line-height: 1.5;
+  float: left;  
+  color: rgba(90, 89, 88, 0.863);
+  margin: 05px 180px 100px 10px;
+  width: 998px; 
+  text-align: left;
+  font-weight: bold;
+}
+h3{
+   font-size: 19px;
+   font-weight: bold;
+   color: rgb(14, 13, 13);
+}
+.client input{
+   height: 40px;
+   text-align: center;
+   /* border: 2px solid #e01717; */
+   background-color: rgb(28, 202, 202);
+   border-radius: 10px;
+   padding: 0px 11px;
+   color: #ffffff;
+   font-size: 20px;
+   margin: 18px 10px 0px 0px;
+   }
+   .price{
+   /* font-size: 12px; */
+   /* text-align: justify; */
+   /* padding-left: 460px; */
+   /* padding-right: 460px; */
+   /* white-space: normal; */
+   line-height: 1;
+   padding-top: 20px;
+   height: 40px;
+   text-align: center;
+      border-radius: 10px;
+   /* padding: 0px 11px; */
+   color: #3f8a49;
+   font-size: 40px;
+   /* margin: 18px 10px 0px 0px; */
+   }
+   .price option{
+   border: 2px solid #e01717;
+   background-color: rgb(80, 27, 139);
+   }
