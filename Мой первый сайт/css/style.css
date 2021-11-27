@@ -1,0 +1,116 @@
+nav{
+   width:100%;
+   height: 58px;
+   background: blue;
+}
+.logo{
+   color: #ffffff;
+   font-size: 25px;
+   line-height: 58px;
+   padding-left: 20%;
+   float: left;
+}
+.menu{
+   float: left;
+   padding-left: 25%;
+   }
+.menu li{
+      float: left;
+      line-height: 58px;
+      color: #ffffff;
+      margin-right: 40px;
+      text-transform: uppercase;
+   }
+.main{
+      width: 100%;
+      height: 100%;
+      background: url(../img/осень.jpg) center/cover no-repeat
+   }
+.title_container1{
+   float: left;
+   margin: 432px 0px 0px 404px;
+   color: #ffffff;
+   text-align: center;
+}
+.title_container1 h1{
+   font-size: 35px;
+   font-weight: bold;
+}
+.title_container1 h4{
+   font-size: 20px;
+   margin-top: 35px;
+}
+.title_container1 input{
+   height: 40px;
+   text-align: center;
+   border: 2px solid #ffffff;
+   background: none;
+   border-radius: 10px;
+   padding: 0px 16px;
+   color: #ffffff;
+   font-size: 20px;
+   margin: 38px 14px 0px 14px;
+}
+div.title_container2{
+   font-size: 25px;
+   text-align: center;
+   line-height: 35px;  
+}
+.title_container2 h2{
+   font-weight: bold;
+   padding-top: 30px; /*вниз от предыдущего объекта*/
+}
+img{
+   width: 10%;
+   padding-top: 10px;
+}
+.title_container2 p{
+   font-size: 12px;
+   text-align: justify;
+   padding-left: 460px;
+   padding-right: 460px;
+   white-space: normal;
+   line-height: 1;
+   padding-top: 20px;
+}
+.title_container2 input{
+   height: 30px;
+   text-align: center;
+   border: 2px solid #272424;
+   background: none;
+   border-radius: 10px;
+   padding: 0px 16px;
+   color: #2c2727;
+   font-size: 20px;
+   margin: 18px 14px 0px 14px;
+}
+
+.title{
+   width: 100%;
+   height: 100%;
+   background: url(../img/слой.jpg) center;
+   padding-top: 50px;
+   margin: 70px 00px 00px 00px;
+   height: 800px
+}
+.title h2{
+   text-align: center;
+   font-weight: bold;
+   padding-top: 40px;
+   font-size: 25px;
+ }
+.icon1{
+   float: left;
+   color: rgb(240, 121, 41);
+   padding-left: 30%
+}
+.icon2{
+   float: left;color: rgb(240, 121, 41);padding-left: 30%
+}
+.icon3{
+ float: left;  color: rgb(240, 121, 41);padding-left: 30%
+}
+.icon4{
+   float: left;color: rgb(240, 121, 41);padding-left: 30%
+}
+
